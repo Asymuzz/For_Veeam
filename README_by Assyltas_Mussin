@@ -1,0 +1,11 @@
+FOLDER SYNCHRONIZATION 
+
+Synchronizes the source folder with replica folder. Changes made on Source folder will be mirrored on Replica folder. 
+
+DESCRIPTION
+At the start user will be greeted with question of Source folder location. Similiarly, next question will be the location of Replica folder. 
+On successfull enterance of pathes, the program will start its main fucntion. To simulate continious synchronization, while(true) was included.
+However to "smooth" the experience internal stops of 100ms were included.
+
+MADE BY 
+Assyltas Mussin, using C# language
